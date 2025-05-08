@@ -16,7 +16,7 @@ The AI calculates the expected x-position of the ball when it reaches the paddle
 
 ## 📷 Screenshot
 
-![Pong Screenshot](screenshot.png)  
+<img src="screenshot.png" alt="Pong Screenshot" width="400"/>
 
 ## ▶️ Getting Started
 
