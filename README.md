@@ -15,8 +15,10 @@ In this version, the game agent is programmed to be extremely hard (if not impos
 The AI calculates the expected x-position of the ball when it reaches the paddle's y-position. It then moves horizontally toward that target.
 
 ## 📷 Screenshot
-
+<div align="center">
 <img src="screenshot.png" alt="Pong Screenshot" width="400"/>
+</div>
+
 
 ## ▶️ Getting Started
 
