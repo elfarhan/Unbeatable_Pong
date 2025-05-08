@@ -7,7 +7,6 @@ In this version, the game agent is programmed to be extremely hard (if not impos
 ## 🎮 Features
 
 - Agent predicts ball trajectory and auto-moves to intercept it
-- Smooth animations and basic game UI
 - Built with Python and Pygame
 - One-player mode (vs unbeatable AI)
 
@@ -29,6 +28,10 @@ The AI calculates the expected x-position of the ball when it reaches the paddle
 Install Pygame:
 ```bash
 pip install pygame
-
+```
+Run the game:
+```bash
+python3 pong.py
+```
 ## 📝 License
 MIT License. Feel free to use, modify, and share!
